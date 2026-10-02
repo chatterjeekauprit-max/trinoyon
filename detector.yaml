@@ -1,0 +1,1 @@
+{"backend":"opencv_hog","minimum_confidence":0.0,"note":"HOG is a classical pretrained people baseline, not this project's trained custom detector."}
